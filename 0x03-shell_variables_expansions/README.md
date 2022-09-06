@@ -58,4 +58,4 @@ Alpha-ordered.
 
 17. I'm an instant star. Just add water and stir.
 102-water_and_stir: Bash script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
-WATER is in base water, STIR is in base stir, and the result is in base behlnort.
+WATER is in base water, STIR is in base stir, and the result is in base bestchol.
